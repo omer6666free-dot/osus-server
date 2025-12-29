@@ -1,0 +1,1 @@
+ALTER TABLE `admin_notifications` MODIFY COLUMN `type` enum('late','absent','outside_zone','left_zone','system') NOT NULL;

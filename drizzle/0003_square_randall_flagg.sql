@@ -1,0 +1,2 @@
+ALTER TABLE `employees` ADD `jobTitle` enum('field_rep','office_employee','supervisor','manager') DEFAULT 'field_rep' NOT NULL;--> statement-breakpoint
+ALTER TABLE `employees` ADD `role` enum('employee','admin') DEFAULT 'employee' NOT NULL;

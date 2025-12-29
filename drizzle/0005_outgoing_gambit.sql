@@ -1,0 +1,1 @@
+ALTER TABLE `employees` MODIFY COLUMN `jobTitle` enum('office_employee','customer_service','supervisor','manager') NOT NULL DEFAULT 'office_employee';

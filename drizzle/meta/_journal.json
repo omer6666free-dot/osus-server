@@ -1,0 +1,111 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763372440610,
+      "tag": "0000_elite_eternals",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1765870838278,
+      "tag": "0001_tearful_grim_reaper",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1765872155821,
+      "tag": "0002_lowly_shriek",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1765878123713,
+      "tag": "0003_square_randall_flagg",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1765910515865,
+      "tag": "0004_many_tigra",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1765914317392,
+      "tag": "0005_outgoing_gambit",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1765914825231,
+      "tag": "0006_fantastic_nightshade",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1765915535704,
+      "tag": "0007_wise_silvermane",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1765916845183,
+      "tag": "0008_productive_the_fury",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1765917017676,
+      "tag": "0009_pretty_warbound",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1765917663715,
+      "tag": "0010_daffy_manta",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1765920523203,
+      "tag": "0011_elite_scarlet_spider",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "5",
+      "when": 1765921678595,
+      "tag": "0012_lethal_boomer",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "5",
+      "when": 1765923823884,
+      "tag": "0013_amusing_morbius",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "5",
+      "when": 1765924119801,
+      "tag": "0014_gifted_wolverine",
+      "breakpoints": true
+    }
+  ]
+}
