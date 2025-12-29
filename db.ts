@@ -17,7 +17,7 @@ import {
   LocationTracking,
   leaveRequests, InsertLeaveRequest, LeaveRequest,
   leaveBalances, InsertLeaveBalance, LeaveBalance
-} from "../drizzle/schema";
+} from "./drizzle/schema";
 import { ENV } from "./_core/env";
 
 let _db: ReturnType<typeof drizzle> | null = null;
